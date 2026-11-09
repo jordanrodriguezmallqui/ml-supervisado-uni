@@ -200,7 +200,7 @@ pd.DataFrame(resultados).sort_values('CV Mean', ascending=False)
 ### 📂 Repositorio del Curso
 Todo el material está disponible en:
 
-🔗 **[https://github.com/JordanKingPeru/ml-supervisado-uni](https://github.com/JordanKingPeru/ml-supervisado-uni)**
+🔗 **[https://github.com/jordanrodriguezmallqui/ml-supervisado-uni](https://github.com/jordanrodriguezmallqui/ml-supervisado-uni)**
 
 ### 📓 Notebooks de la Sesión 2
 - `00a_Arboles_Decision_Intro.ipynb` - Fundamentos de Árboles de Decisión

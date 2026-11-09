@@ -13,7 +13,7 @@
 - 📧 jrodriguezm216@gmail.com
 - 🌐 [jordandataexpert.com](https://jordandataexpert.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jordan-rodriguez-peru)
-- 💻 [GitHub](https://github.com/JordanKingPeru)
+- 💻 [GitHub](https://github.com/jordanrodriguezmallqui)
 
 ---
 
@@ -44,7 +44,7 @@ Además:
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/JordanKingPeru/ml-supervisado-uni.git
+git clone https://github.com/jordanrodriguezmallqui/ml-supervisado-uni.git
 cd ml-supervisado-uni
 
 # Crear entorno e instalar dependencias

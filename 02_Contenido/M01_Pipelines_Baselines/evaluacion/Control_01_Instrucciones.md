@@ -153,7 +153,7 @@ Puedes elegir cualquier dataset que:
 ### 📂 Repositorio del Curso
 Puedes utilizar como referencia todo el material disponible en el repositorio oficial del curso:
 
-🔗 **[https://github.com/JordanKingPeru/ml-supervisado-uni](https://github.com/JordanKingPeru/ml-supervisado-uni)**
+🔗 **[https://github.com/jordanrodriguezmallqui/ml-supervisado-uni](https://github.com/jordanrodriguezmallqui/ml-supervisado-uni)**
 
 ### 📓 Notebooks del Curso
 - **[00_Dummy_Baselines_Intro.ipynb](../notebooks/00_Dummy_Baselines_Intro.ipynb)** - Tutorial completo de DummyClassifier y DummyRegressor ⭐

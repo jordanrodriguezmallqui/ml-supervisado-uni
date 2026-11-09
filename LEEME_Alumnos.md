@@ -11,7 +11,7 @@
 ## Opción B — Google Colab (solo necesitas navegador)
 1. Sube el notebook que quieras a [colab.research.google.com](https://colab.research.google.com).
 2. Sube también `03_Datos/tabular/` y la carpeta `02_Contenido/recursos/` (o clona el repo dentro de
-   Colab: `!git clone https://github.com/JordanKingPeru/ml-supervisado-uni.git`).
+   Colab: `!git clone https://github.com/jordanrodriguezmallqui/ml-supervisado-uni.git`).
 3. Instala lo que falte: `!pip install -r ml-supervisado-uni/02_Contenido/M00_Onboarding/requirements.txt`.
 
 ## Opción C — Tu máquina (recomendada para el curso)
@@ -19,7 +19,7 @@
    **VS Code** con la extensión de Python (o Jupyter Lab).
 2. Clona el repo y crea el entorno:
    ```bash
-   git clone https://github.com/JordanKingPeru/ml-supervisado-uni.git
+   git clone https://github.com/jordanrodriguezmallqui/ml-supervisado-uni.git
    cd ml-supervisado-uni
    python -m venv .venv
    # Windows: .venv\Scripts\activate     Linux/Mac: source .venv/bin/activate

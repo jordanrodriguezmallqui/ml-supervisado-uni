@@ -251,7 +251,7 @@ fig2.show()
 ### 📂 Repositorio del Curso
 Todo el material está disponible en:
 
-🔗 **[https://github.com/JordanKingPeru/ml-supervisado-uni](https://github.com/JordanKingPeru/ml-supervisado-uni)**
+🔗 **[https://github.com/jordanrodriguezmallqui/ml-supervisado-uni](https://github.com/jordanrodriguezmallqui/ml-supervisado-uni)**
 
 ### 📓 Notebooks de la Sesión 3
 - `01_Hyperparameter_Optimization.ipynb` - Optuna y búsqueda de hiperparámetros

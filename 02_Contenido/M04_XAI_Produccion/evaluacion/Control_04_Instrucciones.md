@@ -344,7 +344,7 @@ shap_values = explainer(X_test)
 ### 📂 Repositorio del Curso
 Todo el material está disponible en:
 
-🔗 **[https://github.com/JordanKingPeru/ml-supervisado-uni](https://github.com/JordanKingPeru/ml-supervisado-uni)**
+🔗 **[https://github.com/jordanrodriguezmallqui/ml-supervisado-uni](https://github.com/jordanrodriguezmallqui/ml-supervisado-uni)**
 
 ### 📓 Notebooks de la Sesión 4
 - `01_Advanced_Validation.ipynb` - Estrategias de cross-validation
